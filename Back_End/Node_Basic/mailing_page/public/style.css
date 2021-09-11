@@ -1,0 +1,27 @@
+body{
+    background: #512581;
+}
+.box{
+    padding: 10%;
+    background: #400e67;
+    margin-top: 15%;
+}
+
+.form-group input{
+    font-weight: 900;
+}
+
+h1{
+    font-family: "Roboto", "Lucida Grande", "DejaVu Sans", "Bitstream Vera Sans", Verdana, Arial, sans-serif;
+    font-weight: 600;
+    font-size: 3rem;
+}
+
+.btn{
+    font-family: "cursive", sans-serif;
+    font-weight: 600;
+    font-size: 1.1rem;
+    padding: 8px 165px;
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
